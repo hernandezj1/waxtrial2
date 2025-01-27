@@ -10,6 +10,6 @@ source: https://commons.wikimedia.org/wiki/File:Unknown,_Iran,_early_19th_Centur
 order: '09'
 layout: qatar_item
 collection: qatar
-thumbnail: "/img/derivatives/iiif/images/obj10/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/obj10/full/1140,/0/default.jpg"
+thumbnail: "/img/fotodewax.jpg"
+full: "/img/fotodewax.jpg"
 ---
